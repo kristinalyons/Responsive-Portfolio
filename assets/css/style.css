@@ -1,0 +1,175 @@
+header {
+	width: 960px;
+	height: 50px;
+	background-color: #FFFFFF;
+	margin: 0 auto 0 auto;
+	position: relative;
+}
+
+#myname {
+	float: left;
+	width: 20%;
+	height: 65px;
+	background: #4aaaa5;
+	border: 1px solid #4aaaa5;
+	font-family: "Georgia", Times, Times New Roman, serif;
+	font-size: 21px;
+	font-weight: bold;
+	color: #ffffff;
+	margin-top: 0px;
+	margin-left: 75px;
+	padding-right: 6px;
+	text-align: center;
+	line-height: 40px;
+	position: relative;
+
+}
+
+.upperlinks {
+		display: inline-block;
+
+}
+
+input {
+	width: 440px;
+	line-height: 20px;
+
+}
+
+#formmessage {
+	line-height: 175px;
+
+}
+
+.btn-group {
+	width: 100px;
+	height: 35px;
+	background-color: #4AAAA5;
+	border: 1px solid #4AAAA5;
+	margin-top: 15px;
+	color: #ffffff;
+	font-size: 15px;
+}
+
+a:link {
+	text-decoration: none;
+} 
+
+.kristina {
+	position: absolute;
+	top: 10px;
+    left: 20px;
+}
+#aboutheader {
+	margin-top: 0px;
+	margin-right: 145px;
+	float: right;
+	text-align: center;
+	padding-top: 12px;
+
+}
+
+.container {
+	width: 960px;
+	height: 600px;
+	margin: 0 auto 0 auto;
+	background-color: #EEEEEE;
+	clear: both;
+}
+
+#aboutme {
+	background-color: #FFFFFF;
+	height: 450px;
+	width: 500px;
+	padding: 10px;
+	float: left;
+	margin-left: 75px;
+	margin-top: 30px;
+	font-family: "Arial", Helvetica Neue, Helvetica, sans-serif;
+	font-size: 15px;
+	color: #777777;
+	line-height: 25px;
+}
+
+#me {
+	margin: 0 15px 15px 0;
+}
+
+#forms {
+	background-color: #FFFFFF;
+	height: 425px;
+	width: 450px;
+	padding: 10px;
+	float: left;
+	margin-left: 75px;
+	margin-top: 50px;
+	font-family: "Arial", Helvetica Neue, Helvetica, sans-serif;
+	color: #777777;
+}
+
+
+#portfolio {
+	background-color: #FFFFFF;
+	height: 500px;
+	width: 500px;
+	padding: 10px;
+	float: left;
+	margin-left: 75px;
+	margin-top: 30px;
+	line-height: 40px;
+}
+
+
+h3 {
+	font-family: "Georgia", Times, Times New Roman, serif;
+	color: #4AAAA5;
+	text-align: left;
+	margin-left: 10px;
+	font-size: 22px;
+	font-weight: bold;
+}
+
+
+#connectwithme {
+	background-color: #FFFFFF;
+	height: 100px;
+	width: 200px;
+	padding: 10px;
+	float: right;
+	margin-right: 110px;
+	margin-top: 50px;
+
+}
+
+h4 {
+	font-family: "Georgia", Times, Times New Roman, serif;
+	color: #4AAAA5;
+	text-align: center;
+	margin-top: 5px;
+	font-size: 18px;
+	font-weight: bold;
+
+}
+
+#socialmedia {
+	border-top: #cccccc;
+	text-align: center;
+	margin-top: 10px;
+
+}
+
+#comingsoon {
+	margin: auto;
+}
+footer {
+	background-color: #666666;
+	border-top: 5px solid #4aaaa5;
+	height: 60px;
+	width: 960px;
+	margin: auto;
+	text-align: center;
+	line-height: 60px;
+	font-family: "Arial", Helvetica Neue, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #ffffff;
+}
